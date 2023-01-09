@@ -1,7 +1,7 @@
 {
-  "name": "regex",
+  "name": "checkregex",
   "version": "1.0.0",
-  "description": "",
+  "description": "A simple class to validate strings via regex.",
   "private": true,
   "main": "index.js",
   "type": "module",
