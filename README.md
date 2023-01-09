@@ -2,7 +2,7 @@
 A simple class to validate the elements that we often encounter during our developments.
 
 
-# Installation
+## Installation
 ```bash
 yarn install | npm intall
 
